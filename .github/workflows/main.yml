@@ -1,5 +1,7 @@
 name: Generate SBOM Report with Syft
 
+# test
+
 on:
   push:
     branches:
